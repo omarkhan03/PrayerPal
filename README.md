@@ -12,6 +12,9 @@ Prayer Pal allows users to view the Islamic prayer times for their location.
 
 To get started, enter the name of your city in the space provided and select a prayer. There is an option to view the time as either a 12-hour format or military format. Prayer Pal should work for most cities in the world. If no data can be retrieved for your city, check your spelling and try inputting another city near you.
 
+![image](https://user-images.githubusercontent.com/106503860/170929457-e2f9ea0b-3b54-4f9f-b575-9d104ebdd715.png)
+
+
 ## About
 
 All prayer times are retrieved from https://prayertimes.date, using webscraping with the BeautifulSoup4 library.
