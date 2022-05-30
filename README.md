@@ -8,7 +8,7 @@ Prayer Pal allows Muslims to view the Islamic prayer times for their location!
 2. Rename the **main.py** file to **main.pyw**  -  If there is a warning, click Yes and proceed
 4. Double click the file to launch the program!
 
-## How to use Prayer Pal
+## To use Prayer Pal
 
 To get started, enter the name of your city in the space provided and select a prayer. There is an option to view the time as either a 12-hour format or military format. Prayer Pal should work for most cities in the world. If no data can be retrieved for your city, check your spelling and try inputting another city near you.
 
