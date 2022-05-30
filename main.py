@@ -112,7 +112,7 @@ def main():
 
         if event == 'About':
             window.FindElement('_output_').Update('')
-            print("Prayer Pal is an app that allows Muslims to view the Islamic prayer times for their location!"
+            print("Prayer Pal allows Muslims to view the Islamic prayer times for their location!"
                   "\nTo get started, enter the name of your city in the space provided and select a prayer."
                   "\nThere is an option to view the time as either a 12-hour format or military format.")
 
