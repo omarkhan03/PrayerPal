@@ -1,6 +1,6 @@
 # Welcome to Prayer Pal!
 
-Prayer Pal allows Muslims to view the Islamic prayer times for their location.
+Prayer Pal allows users to view the Islamic prayer times for their location.
 
 ## To run Prayer Pal
 
