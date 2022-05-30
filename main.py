@@ -71,7 +71,7 @@ def calculate(window, values, prayer):
     if time != "":
         if values['12hr']:
             time = convertTime(time)
-        print(prayer + " time in " + city + " is at: " + time +
+        print(prayer + " time in " + city + " is at: " + time + ", local time."
               "\nDate: " + get_date(city) +
               "\n\nRetrieved from " + url)
 
