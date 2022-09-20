@@ -5,8 +5,16 @@ Prayer Pal allows users to view the Islamic prayer times for their location.
 ## To run Prayer Pal
 
 1. If you don't have Python already installed, go to https://www.python.org/downloads/ and install the latest version.
-2. Rename the **main.py** file to **main.pyw**  -  If there is a warning, click Yes and proceed.
-4. Double click the file to launch the program!
+2. Ensure you have the latest version of pip installed by following the instructions on https://pip.pypa.io/en/latest/installation/#ensurepip
+3. Import the necessary libraries using the following commands:
+
+`pip3 install beautifulsoup4`
+
+`pip3 install requests`
+
+`pip3 install PySimpleGUI`
+
+4. Navigate to the project folder (`cd PrayerPal`) and run the command `python3 main.py` to run the program!
 
 ## To use Prayer Pal
 
